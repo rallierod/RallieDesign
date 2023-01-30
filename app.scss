@@ -1,0 +1,17 @@
+
+@use "@material/card";
+
+@include card.core-styles;
+
+.foo-button {
+  @include button.container-fill-color(darksalmon);
+}
+
+p {
+    color: blue;
+  }
+
+  .my-card {
+    height: 350px;
+    width: 350px;
+  }
