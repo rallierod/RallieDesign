@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "RallieDesign"
+  "defaultProject": "RallieDesign",
+  "cli": {
+    "analytics": false
+  }
 }
